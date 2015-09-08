@@ -1,0 +1,7 @@
+import java.util.*;
+
+public class salesStats{
+  public static void main(String[] args){
+    double[] sales;
+    for(a=0;a<=4;a++){
+      sales[a]=
